@@ -1,8 +1,10 @@
 body {
     background-color: rgb(253, 251, 251);
+    margin-top: 115px;
 }
 
 #cabecalho {
+    position: fixed;
     top: 0;
 
 }
@@ -13,6 +15,14 @@ body {
     font-weight: bold;
     font-size: 50px;
 
+}
+
+#rodape {
+
+    background-color: purple;
+    width: 100%;
+    padding: 20px;
+    color: white;
 }
 
 table {
