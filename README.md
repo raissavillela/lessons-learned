@@ -9,7 +9,8 @@ Foi desenvolvido um site que contenha uma série de informações sobre o que um
 
   * Desenvolver a página com semântica adequada e aprovada no `CodeSniffer`.
     
-  * Testar os requisitos do projeto por meio do `Cypress`. (O Cypress é uma ferramenta de teste de front-end desenvolvida para a web.)
+  * Testar os requisitos do projeto por meio do `Cypress`.
+(O Cypress é uma ferramenta de teste de front-end desenvolvida para a web.)
 
 
 # Requisitos
