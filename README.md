@@ -2,13 +2,14 @@
 
 Foi desenvolvido um site que contenha uma série de informações sobre o que um aluno aprendeu nas duas primeiras seções. O site está com elementos posicionados e estilizados e, além disso, contém semântica apropriada para que seja acessível e melhor ranqueado. Para garantir a qualidade do código, utilizei os linters `ESLint` e `StyleLint`.
 
+
   Neste projeto, atestei que sou capaz de:
 
   * Desenvolver uma página HTML estilizada com CSS.
 
-  * Desenvolver a página com semântica adequada e aprovada no CodeSniffer.
+  * Desenvolver a página com semântica adequada e aprovada no `CodeSniffer`.
     
-  * Testar os requisitos do projeto serão testados **automaticamente** por meio do `Cypress`. (O Cypress é uma ferramenta de teste de front-end desenvolvida para a web.)
+  * Testar os requisitos do projeto por meio do `Cypress`. (O Cypress é uma ferramenta de teste de front-end desenvolvida para a web.)
 
 
 # Requisitos
