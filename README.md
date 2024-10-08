@@ -100,7 +100,7 @@ Foi desenvolvido um site que contenha uma série de informações sobre o que um
   * Os elementos com as classes `lado-direito` e `lado-esquerdo` estão posicionados corretamente.
   
 
-## Projeto desenvolvido durante a Formação em Desenvolvimento Web Full-Stack da [Trybe](https://www.betrybe.com/). 
+### Projeto desenvolvido durante a Formação em Desenvolvimento Web Full-Stack da [Trybe](https://www.betrybe.com/). 
 Todos os arquivos de configuração, banco de dados e estrutura são de autoria da Trybe.
 
 
